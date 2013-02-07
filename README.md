@@ -27,14 +27,14 @@ Follow the instructions.
 IPython Notebook Easy Installer automates two functions: [Downloading](https://github.com/JorySchossau/ipynbez#downloading) and [Installing](https://github.com/JorySchossau/ipynbez#installing) required files to get IPython Notebook up and running.
 
 ### Downloading
-This tool automatically downloads the following:
+This tool automatically downloads the following, depending on your operating system:
 * [Enthought Python Distribution (Free Version)](http://www.enthought.com/products/epd_free.php): for installing a python environment
   * [MatPlotLib](http://matplotlib.org/): updating the one in EPD for compatibility with the latest Notebook
 * [Git for Windows](http://msysgit.github.com/): for downloading the latest IPython
   * [PeaZip](http://code.google.com/p/peazip/): for unzipping Git for Windows
 
 ### Installing
-This tool automatically installs the following:
+This tool automatically installs the following, depending on your operating system:
 * [Enthought Python Distribution (Free Version)](http://www.enthought.com/products/epd_free.php): for a python environment
   * [MatPlotLib](http://matplotlib.org/): For Notebook compatibility
 * A shortcut IPyNBServer.bat: starts the Notebook server in the current directory
