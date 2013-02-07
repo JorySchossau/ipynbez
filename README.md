@@ -24,7 +24,7 @@ Follow the instructions.
 
 ## Details
 
-IPython Notebook Easy Installer automates two functions: [Downloading](https://github.com/JorySchossau/ipynbez#Downloading) and [Installing](https://github.com/JorySchossau/ipynbez#Installing) required files to get IPython Notebook up and running.
+IPython Notebook Easy Installer automates two functions: [Downloading](https://github.com/JorySchossau/ipynbez#downloading) and [Installing](https://github.com/JorySchossau/ipynbez#installing) required files to get IPython Notebook up and running.
 
 ### Downloading
 This tool automatically downloads the following:
