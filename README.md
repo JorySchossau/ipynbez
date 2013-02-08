@@ -41,7 +41,7 @@ This tool automatically installs the following, depending on your operating syst
 ## Tips
 
 ### Blank browser problem
-Try a different browser, or try updating your browser. Browsers to try: [Mozilla Firefox](http://www.mozilla.org/en-US/firefox/new/), [Google Chrome](https://www.google.com/intl/en/chrome/browser/), [Safari](http://support.apple.com/kb/DL1531).
+Try a different browser, or try updating your browser. Browsers to try: [Mozilla Firefox](http://www.mozilla.org/en-US/firefox/new/), [Google Chrome](https://www.google.com/intl/en/chrome/browser/), or [Safari](http://support.apple.com/kb/DL1531).
 
 ==================
 #### Authorship
