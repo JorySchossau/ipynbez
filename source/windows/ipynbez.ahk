@@ -335,7 +335,7 @@ Progress, 100, (Creating Shortcut...), %progressMain% (12/%totalSteps%), %progre
 shortcutFileName=IPyNotebook.lnk
 IfNotExist, %shortcutFileName%
 {
-    FileCreateShortcut, C:\Python27\Scripts\ipython.exe, %shortcutFileName%, `%CD`%, notebook --pylab inline, Launches IPython Notebook using the current working directory for notebook files, C:\Python27\python.exe
+    FileCreateShortcut, C:\Python27\Scripts\ipython.exe, %A_Desktop%\%shortcutFileName%, `%CD`%, notebook --pylab inline, Launches IPython Notebook using the current working directory for notebook files, C:\Python27\python.exe
     Sleep, 200
 }
 Progress, Off
