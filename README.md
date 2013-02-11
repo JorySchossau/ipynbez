@@ -48,6 +48,10 @@ This tool automatically installs the following, depending on your operating syst
 ### Blank browser problem
 Try a different browser, or try updating your browser. Browsers to try: [Mozilla Firefox](http://www.mozilla.org/en-US/firefox/new/), [Google Chrome](https://www.google.com/intl/en/chrome/browser/), or [Safari](http://support.apple.com/kb/DL1531).
 
+## Known Problems
+
+* Windows(XP/7) Running ipynbez.exe from your browser's download manager causes the program to run strangely. Symptoms: Incomplete installation, or lack of Desktop shortcut IPyNotebook.
+
 ==================
 #### Authorship
 * Made by Jory Schossau
