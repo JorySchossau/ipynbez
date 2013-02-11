@@ -2,7 +2,7 @@
 
 IPython Notebook can be difficult to install. This installer automates much of the process so you can focus on _using_ IPython Notebook instead of getting IPython Notebook working.
 
-This was originally intended as a tool to help mass installations for IPython Notebook beginners attending on-site courses.
+This is a quick stop-gap tool to help mass installations for IPython Notebook beginners attending on-site courses.
 
 ## Install and Use
 
