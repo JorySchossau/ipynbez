@@ -1,6 +1,6 @@
 ## About
 
-IPython Notebook can be difficult to install. This installer automates much of the process so you can focus on _using_ IPython Notebook instead of getting IPython Notebook working. Because IPython Notebook is being furiously actively developed then it is useful to stay up to date with the latest development release. This tool helps you do exactly that.
+IPython Notebook can be difficult to install. This installer automates much of the process so you can focus on _using_ IPython Notebook instead of getting IPython Notebook working. Because IPython Notebook is being furiously actively developed then many people wish to stay up to date with the latest development release. This tool helps you do exactly that.
 
 This is a quick stop-gap tool to help mass installations for IPython Notebook beginners attending on-site courses.
 
