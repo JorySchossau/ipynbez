@@ -8,7 +8,7 @@ This is a quick stop-gap tool to help mass installations for IPython Notebook be
 
 ### Windows (XP/7)
 Download [ipynbez.exe](https://raw.github.com/JorySchossau/ipynbez/master/windows/ipynbez.exe) and run it using an account that has installation privileges.
-The installer will create a file called `IPyNotebook` next to the downloaded `ipynbez.exe`. Double click to start, Control-C to end the server. Optionally, move this shortcut to a folder you want to use for your Notebooks to make those files available to IPython Notebook.
+The installer will create a file called `IPyNotebook` on your Desktop. Double click to start, Control-C to end the server. Optionally, move this shortcut to a folder you want to use for your Notebooks to make those files available to IPython Notebook.
 
 ### Mac
 _Coming soon._
