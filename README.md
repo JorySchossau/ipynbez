@@ -14,8 +14,7 @@ The installer will create a file called `IPyNotebook`. Double click to start, Co
 _Coming soon._
 
 ### Linux
-_Coming soon._
-============
+_Coming soon._   
 Download [ipynbez.sh]() and run it from the command line.
 ```bash
 ./ipynbez.sh
@@ -53,3 +52,4 @@ Try a different browser, or try updating your browser. Browsers to try: [Mozilla
 #### Authorship
 * Made by Jory Schossau
 * [GPLv3](http://www.gnu.org/licenses/quick-guide-gplv3.html)
+* Icon from Python project
