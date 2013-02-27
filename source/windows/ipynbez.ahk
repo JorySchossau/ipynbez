@@ -109,6 +109,8 @@ DownloadProgressGit(pthis, nProgress = 0, nProgressMax = 0, nStatusCode = 0, pSt
     Return 0
 }
 
+;; Credit for DownloadFromURL goes to:
+;; http://www.autohotkey.com/board/topic/17915-urldownloadtofile-progress/
 DownloadFromURL(sUrl, sFile, callback, caption)
 {
     Progress, % "M W" . A_ScreenWidth//3, %caption%,, IPython Notebook Easy Installer
