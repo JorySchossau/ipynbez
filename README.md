@@ -1,3 +1,7 @@
+###Edit 2016 Feb:
+In case anyone still finds this page, just use [miniconda](http://conda.pydata.org/miniconda.html). I've been using it for a couple years now on various OSs and it's great.
+
+
 ## About
 
 IPython Notebook can be difficult to install. This installer automates much of the process so you can focus on _using_ IPython Notebook instead of getting IPython Notebook working. Because IPython Notebook is being furiously actively developed then many people wish to stay up to date with the latest development release. This tool helps you do exactly that.
